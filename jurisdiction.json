@@ -1,0 +1,11 @@
+{
+  "path": "md-ga",
+  "code": "MD-GA",
+  "name": "Autonomous Territorial Unit of Gagauzia (Gagauz Yeri)",
+  "level": "autonomous territorial unit",
+  "parent": "md",
+  "repo": "https://github.com/lexifina/moldova-gagauzia-law",
+  "build": "built: the Уложение (basic law) and the laws of Gagauzia as published by its People's Assembly (Halk Topluşu)",
+  "language": "ru",
+  "sources": 1
+}

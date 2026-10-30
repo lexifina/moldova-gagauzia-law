@@ -1,0 +1,20 @@
+Source of the legal text
+
+The text of the laws in this repository is published by the People's Assembly of Gagauzia (Народное Собрание
+Гагаузии / Gagauziyanın Halk Topluşu) at https://halktoplushu.md, page "Законы АТО Гагаузия (Гагауз-Ери)"
+(https://halktoplushu.md/normativnaya-baza/zakony-ato-gagauziya-gagauz-eri), read on 2026-10-30.
+
+Source: Народное Собрание Гагаузии (Halk Topluşu), https://halktoplushu.md.
+
+The site's footer reads: "© Все права защищены. При использовании материалов сайта ссылка на источник обязательна."
+("© All rights reserved. When the site's materials are used, a link to the source is required.") The site states no
+other terms. This repository gives that link above, in README.md, and in every commit that adds a law. Under the
+Law of the Republic of Moldova No. 139/2010 on copyright and related rights (article 8), official documents of a
+legislative character are not objects of copyright.
+
+This is not an official publication. Only the laws as published in the official bulletin of Gagauzia are
+authoritative.
+
+Everything else in this repository (the history as commits, the commit messages, the tables and the tools) is
+dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode

@@ -1,5 +1,7 @@
 # Gagauzia (Gagauz Yeri): law in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Gagauzia, Moldova, which global-law reads at `moldova/gagauzia/acts/`.
+
 The laws of the Autonomous Territorial Unit of Gagauzia (Gagauz Yeri), in the Republic of Moldova, in git: one file per article, as the People's Assembly of Gagauzia (Halk Topluşu) publishes them. `git blame`, `git log` and `tools/on.py` work as in the other repositories of the shared design.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law), which places it at `md-ga/`. The national law is in [lexifina/moldova-law](https://github.com/lexifina/moldova-law).

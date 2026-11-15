@@ -32,7 +32,19 @@ Each law has one commit, dated at noon, Europe/Chisinau, on the day the People's
 
 - Every law is read back from git on the day of its version and the day before (`tools/check_repo.py`); both must match the corpus.
 - The letters and digits of every law, file by file in order, equal those of the Assembly's page, read a second time with a separate reader (every tag stripped by a regular expression, not the HTML parser the build uses).
+- [vulnerabilities/](vulnerabilities/): possible drafting mistakes in the law of Gagauzia, to be found by global-law's detectors and checked by hand. For now the folder is a placeholder.
 
 ## Limits
 
 This is not an official publication. Most laws are recorded as adopted: later amendments are separate laws here, not applied to the text. Check the official bulletin of Gagauzia before relying on any text.
+
+## Visualisations
+
+[visualisations/](visualisations/): charts on the law of Gagauzia, drawn from this repository. For now the folder is a placeholder; there are no charts yet.
+
+## More
+
+From [lexifina/global-law](https://github.com/lexifina/global-law):
+
+- [visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations): charts and bridges across the world's law
+- [Vulnerabilities](https://github.com/lexifina/global-law/tree/main/vulnerabilities): mistakes in legislation as published
